@@ -18,8 +18,8 @@ body{
 
 .calculator{
     border: 1px solid #717377;
-    padding: 20px;
-    border-radius: 16px;
+    padding: 45px;
+    border-radius: 180px;
     background: transparent;
     box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
 
@@ -66,6 +66,7 @@ button{
 .welcome-heading {
   color: #05E5F7;
   font-weight: bold;
+  margin: 8px;
 }
 
 
